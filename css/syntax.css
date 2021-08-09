@@ -1,4 +1,9 @@
-#all-articles h2 + p {
-    color: green;
-
+span[class~="deck"] {
+    color: purple;
+}
+a[title] {
+    color: red;
+}
+a[title="Search engine"] {
+    color: red;
 }
