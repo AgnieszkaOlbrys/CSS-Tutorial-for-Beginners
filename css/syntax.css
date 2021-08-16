@@ -1,9 +1,9 @@
+#header h1{
+    color: chocolate;
+}
+#header h2{
+    color: #567398;
+}
 #header{
-    text-transform: capitalize;
-}
-body{
-    text-transform: uppercase;
-}
-body > p{
-    text-transform: none;
+    background-color: antiquewhite;
 }
