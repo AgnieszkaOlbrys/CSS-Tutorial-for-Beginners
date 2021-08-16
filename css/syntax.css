@@ -1,9 +1,5 @@
-#header h1{
-    color: chocolate;
-}
-#header h2{
-    color: #567398;
-}
-#header{
-    background-color: antiquewhite;
+p{
+    font-size: 12 px;
+    word-spacing: 0.2em;
+
 }
